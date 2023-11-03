@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #000000;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-width: 3px;
+  border-color: white;
+  border-radius: 5px;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 35px;
+}
+.button {
+  color: #000000;
+  background-color: #ffffff;
+  font-family: 'Roboto';
+  height: 35px;
+  width: 100px;
+  border-width: 0px;
+  border-radius: 5px;
+}
+.light-container {
+  background-color: #ffffff;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-width: 3px;
+  border-color: white;
+  border-radius: 5px;
+}
